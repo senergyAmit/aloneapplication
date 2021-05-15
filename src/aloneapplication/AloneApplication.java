@@ -11,7 +11,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author sipl
+ * @author amit yadav
  */
 public class AloneApplication {
 
